@@ -264,3 +264,136 @@ For PakFreelance.com:
 * 🧱 **Content Outline**: For “Freelancing tips for beginners in Pakistan” – add checklists and niche selection tips.
 * 🗺 **Topical Map**: Freelancing → Platform → Skill Type → Income/Portfolio.
 
+---
+
+## SEO Research Prompts for the Indian Market**,
+
+---
+
+### 🛍️ 1. **E-commerce Electronics – Cashify & Amazon India vs Reebelo India**
+
+**Prompt:**
+Analyze [https://www.cashify.in](https://www.cashify.in) and [https://www.amazon.in](https://www.amazon.in) for keyword clusters like “refurbished iPhone India,” “sell old mobile,” and “buy used laptop online India.”
+
+Build a detailed SEO plan for \[[https://www.reebelo.com/in](https://www.reebelo.com/in)]:
+
+* 📊 **Keyword Table**: Categorize by device (phone, laptop, tablet) + brand + intent.
+* 🧱 **Content Outline**: For “Best Refurbished iPhones in India 2025” – include buying guide, warranty info, EMI options.
+* 🗺 **Topical Map**: Refurbished Devices → Brand → Model → Use Case → Accessories.
+
+---
+
+### 🏠 2. **Real Estate – 99acres & MagicBricks vs Housing.com**
+
+**Prompt:**
+Audit [https://www.99acres.com](https://www.99acres.com) and [https://www.magicbricks.com](https://www.magicbricks.com) to analyze keyword strategy around “flats for rent in Delhi,” “buy 2 BHK in Bangalore,” and “property investment in India 2025.”
+
+Create a keyword plan for \[[https://housing.com](https://housing.com)]:
+
+* 📊 **Keyword Table**: Segment by city, property type (rent/buy), BHK count, budget.
+* 🧱 **Content Outline**: For “Affordable Flats for Rent in Mumbai” – include area-wise guides, FAQs, filters.
+* 🗺 **Topical Map**: City → Buy/Rent → Flat Size → Budget → Locality.
+
+---
+
+### 🧴 3. **Beauty & Personal Care – Nykaa & Purplle vs SUGAR Cosmetics**
+
+**Prompt:**
+Analyze [https://www.nykaa.com](https://www.nykaa.com) and [https://www.purplle.com](https://www.purplle.com) to extract keyword clusters like “matte lipstick India,” “best face serums,” and “bridal makeup kit.”
+
+Apply to \[[https://in.sugarcosmetics.com](https://in.sugarcosmetics.com)]:
+
+* 📊 **Keyword Table**: Product type + usage (day/night/matte/etc.) + skin tone.
+* 🧱 **Content Outline**: For “Best Lipsticks Under ₹500” – include shade guides, videos, reviews.
+* 🗺 **Topical Map**: Makeup Type → Product → Skin Type → Budget → Use Case.
+
+---
+
+### 🚗 4. **Automotive – CarDekho & Spinny vs OLX Autos**
+
+**Prompt:**
+Audit [https://www.cardekho.com](https://www.cardekho.com) and [https://www.spinny.com](https://www.spinny.com) for keywords like “used cars under 5 lakhs,” “sell car online in India,” and “best SUV 2025 India.”
+
+Build a keyword & content strategy for \[[https://www.olx.in/cars](https://www.olx.in/cars)]:
+
+* 📊 **Keyword Table**: By car brand, budget, fuel type, city.
+* 🧱 **Content Outline**: For “Used Cars Under ₹5 Lakhs in Delhi” – price filters, EMI, car condition tips.
+* 🗺 **Topical Map**: City → Car Type → Price Range → Fuel Type → Brand.
+
+---
+
+### 🍽️ 5. **Food Delivery – Zomato & Swiggy vs EatSure**
+
+**Prompt:**
+Review [https://www.zomato.com](https://www.zomato.com) and [https://www.swiggy.com](https://www.swiggy.com) for keywords like “food delivery near me,” “best biryani online,” “midnight food delivery Mumbai.”
+
+Build a plan for \[[https://www.eatsure.com](https://www.eatsure.com)]:
+
+* 📊 **Keyword Table**: Cuisine + location + dietary filter.
+* 🧱 **Content Outline**: For “Best Biryani Delivery in Hyderabad” – ratings, order volume, customer reviews.
+* 🗺 **Topical Map**: Cuisine → Meal Time → Dietary Tags → Location → Price.
+
+---
+
+### 🧠 6. **Online Learning – Unacademy & BYJU’S vs Vedantu**
+
+**Prompt:**
+Analyze [https://www.unacademy.com](https://www.unacademy.com) and [https://byjus.com](https://byjus.com) for terms like “best NEET coaching online,” “free UPSC mock test,” and “CBSE class 10 online tuition.”
+
+SEO Plan for \[[https://www.vedantu.com](https://www.vedantu.com)]:
+
+* 📊 **Keyword Table**: By subject, grade, exam (NEET/JEE/UPSC).
+* 🧱 **Content Outline**: For “Online Classes for CBSE Class 10 Science” – topics covered, teacher bios, free resources.
+* 🗺 **Topical Map**: Class Level → Subject → Exam → Topic → Format (video/PDF/test).
+
+---
+
+### 👗 7. **Fashion & Apparel – Myntra & Ajio vs Bewakoof**
+
+**Prompt:**
+Audit [https://www.myntra.com](https://www.myntra.com) and [https://www.ajio.com](https://www.ajio.com) for keywords like “men’s oversized t-shirts India,” “kurti under ₹1000,” and “summer fashion trends India 2025.”
+
+Create a keyword plan for \[[https://www.bewakoof.com](https://www.bewakoof.com)]:
+
+* 📊 **Keyword Table**: Gender → Clothing Type → Style → Season.
+* 🧱 **Content Outline**: For “Best Graphic T-Shirts for Men” – fabric types, design breakdown, model photos.
+* 🗺 **Topical Map**: Men/Women → Category → Occasion → Trend → Budget.
+
+---
+
+### 🏥 8. **Health & Wellness – 1mg & Netmeds vs PharmEasy**
+
+**Prompt:**
+Analyze [https://www.1mg.com](https://www.1mg.com) and [https://www.netmeds.com](https://www.netmeds.com) for keyword clusters like “buy medicines online,” “diabetes care products,” and “Ayurvedic supplements.”
+
+For \[[https://pharmeasy.in](https://pharmeasy.in)]:
+
+* 📊 **Keyword Table**: Disease → Treatment → Product → Brand.
+* 🧱 **Content Outline**: For “Best Diabetes Care Kits in India” – what’s included, usage, discounts.
+* 🗺 **Topical Map**: Condition → Supplement/Medicine → Brand → Dosage → Delivery.
+
+---
+
+### 🧳 9. **Travel – MakeMyTrip & Yatra vs Ixigo**
+
+**Prompt:**
+Audit [https://www.makemytrip.com](https://www.makemytrip.com) and [https://www.yatra.com](https://www.yatra.com) for travel clusters like “cheap flights to Goa,” “honeymoon destinations India,” and “summer vacation packages 2025.”
+
+Build for \[[https://www.ixigo.com](https://www.ixigo.com)]:
+
+* 📊 **Keyword Table**: Destination + intent (flights/trains/hotels) + budget.
+* 🧱 **Content Outline**: For “Top 10 Summer Holiday Spots in India” – include cost, activities, weather.
+* 🗺 **Topical Map**: Trip Type → Destination → Season → Budget → Mode (Flight/Train).
+
+---
+
+### 💻 10. **Freelancing & Jobs – Naukri & Foundit vs Internshala**
+
+**Prompt:**
+Study [https://www.naukri.com](https://www.naukri.com) and [https://www.foundit.in](https://www.foundit.in) keyword strategies for “remote jobs in India,” “fresher internships,” and “freelance writing jobs.”
+
+Build an SEO strategy for \[[https://internshala.com](https://internshala.com)]:
+
+* 📊 **Keyword Table**: Job type → skill → location → experience level.
+* 🧱 **Content Outline**: For “Best Remote Internships for College Students” – role types, stipend, application tips.
+* 🗺 **Topical Map**: Job Type → Location → Experience → Skill → Industry.
